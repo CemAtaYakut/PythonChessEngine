@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This project was inspired by the idea of organizing a chess tournament at my school.  Since I run a tech-based university club, we decided to make it more exciting by creating our own chess engine and joining the tournament as a BOT. Fun, right? *(It's not cheating :D I change the scores, so AI can't find the best move)* so I come up with this: 
+This project was inspired by the idea of organizing a chess tournament at my school.  Since We run a tech-based university club, we decided to make it more exciting by creating our own chess engine and joining the tournament as a BOT. Fun, right? *(It's not cheating :D I change the scores, so AI can't find the best move)* so I come up with this: 
 
 This engine is a fully functional chess engine that I built by applying countless hours of learning from the brilliant minds of Eddie Sharick and Sebastian Lague.
 
