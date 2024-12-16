@@ -14,7 +14,7 @@ Here is Eddie Sharick's channel: https://www.youtube.com/watch?v=U4ogK0MIzqk
 His detailed explanations and practical approach helped me understand and implement key chess engine concepts.  Huge thanks to Eddie for this massive upload to the internet.
 
 Here is Sebastian Lague's video: https://www.youtube.com/watch?v=U4ogK0MIzqk
-The inspiration for this project struck after watching Sebastian's video. If you want to write in C#, deffinetly chech his videos.
+The idea for this project popped up my head after watching Sebastian's video. If you want to write in C#, deffinetly check his videos.
 
 ## How to play?
 
