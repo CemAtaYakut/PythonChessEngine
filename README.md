@@ -23,3 +23,6 @@ The idea for this project popped up my head after watching Sebastian's video. If
 - Run ChessMain.py. and enjoy.
 - z is for undo a move
 - r to reset the game
+
+![image](https://github.com/user-attachments/assets/4bce6bb0-305e-4b02-a2e6-f871b720f3d9)
+
