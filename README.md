@@ -4,7 +4,8 @@
 
 This project was inspired by the idea of organizing a chess tournament at my school.  Since We run a tech-based university club, we decided to make it more exciting by creating our own chess engine and joining the tournament as a BOT. Fun, right? *(It's not cheating :D I change the scores, so AI can't find the best move)* so I come up with this: 
 
-This engine is a fully functional chess engine that I built by applying countless hours of learning from the brilliant minds of Eddie Sharick and Sebastian Lague. To add more fun and historical meaning, I named the program, [The Turk](https://www.chess.com/terms/turk-chess-automaton#chess-legacy) If you are interested to learn more about The Mechanical Turk, click the name.
+This engine is a fully functional chess engine that I built by applying countless hours of learning from the brilliant minds of Eddie Sharick and Sebastian Lague. To add more fun and historical meaning, I named the program, [The Turk](https://www.chess.com/terms/turk-chess-automaton#chess-legacy) 
+If you are interested to learn more about The Mechanical Turk, just click the name.
 
 While many of the comments in the code are written in Turkish, the core structure is heavily influenced by Eddie Sharick's project as I followed his video series extensively. It’s a blend of learning, practice, and passion for coding.
 
