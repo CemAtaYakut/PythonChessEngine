@@ -8,13 +8,6 @@ This engine is a fully functional chess engine that I built by applying countles
 
 While many of the comments in the code are written in Turkish, the core structure is heavily influenced by Eddie Sharick's project as I followed his video series extensively. It’s a blend of learning, practice, and passion for coding.
 
-## Inspirations & Credits
-
-Here is Eddie Sharick's channel: https://www.youtube.com/@eddiesharick6649
-His detailed explanations and practical approach helped me understand and implement key chess engine concepts.  Huge thanks to Eddie for this massive upload to the internet.
-
-Here is Sebastian Lague's video: https://www.youtube.com/watch?v=U4ogK0MIzqk
-The idea for this project popped up my head after watching Sebastian's video. If you want to write in C#, deffinetly check his videos.
 
 ## Setup Instructions
 
@@ -28,9 +21,21 @@ Python and Pygame - Make sure Python is installed. Then, install the Pygame libr
 
 - Select whether you want to play against the computer, another player locally, or watch the engine play against itself by setting the appropriate flags in lines 52 and 53 of ChessMain.py.
 
+    player_one = True  # if a human is playing white, then this will be True, else False
+    player_two = False  # if a hyman is playing white, then this will be True, else False
+  
 - Run ChessMain.py. and enjoy.
 - z is for undo a move
 - r to reset the game
+
+
+## Inspirations & Credits
+
+Here is Eddie Sharick's channel: https://www.youtube.com/@eddiesharick6649
+His detailed explanations and practical approach helped me understand and implement key chess engine concepts.  Huge thanks to Eddie for this massive upload to the internet.
+
+Here is Sebastian Lague's video: https://www.youtube.com/watch?v=U4ogK0MIzqk
+The idea for this project popped up my head after watching Sebastian's video. If you want to write in C#, deffinetly check his videos.
 
 ![image](https://github.com/user-attachments/assets/4bce6bb0-305e-4b02-a2e6-f871b720f3d9)
 
