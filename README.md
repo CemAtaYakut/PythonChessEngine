@@ -42,7 +42,7 @@ Here is Sebastian Lague's video: https://www.youtube.com/watch?v=U4ogK0MIzqk
 The idea for this project popped up my head after watching Sebastian's video. If you want to write in C#, deffinetly check his videos.
 
 
-## How it Should Look
+## How It Should Look
 
 ![image](https://github.com/user-attachments/assets/4bce6bb0-305e-4b02-a2e6-f871b720f3d9)
 
