@@ -17,12 +17,13 @@ JDK (Java Development Kit) - Ensure that you have a JDK installed on your system
 
 Python and Pygame - Make sure Python is installed. Then, install the Pygame library by running the following command in your terminal or command prompt: *pip install pygame*
 
+
 ## How to play?
 
 - Select whether you want to play against the computer, another player locally, or watch the engine play against itself by setting the appropriate flags in lines 52 and 53 of ChessMain.py.
 
-    player_one = True  # if a human is playing white, then this will be True, else False
-    player_two = False  # if a hyman is playing white, then this will be True, else False
+player_one = True  # if a human is playing white, then this will be True, else False
+player_two = False  # if a hyman is playing white, then this will be True, else False
   
 - Run ChessMain.py. and enjoy.
 - z is for undo a move
