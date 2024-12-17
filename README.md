@@ -16,6 +16,14 @@ His detailed explanations and practical approach helped me understand and implem
 Here is Sebastian Lague's video: https://www.youtube.com/watch?v=U4ogK0MIzqk
 The idea for this project popped up my head after watching Sebastian's video. If you want to write in C#, deffinetly check his videos.
 
+## Setup Instructions
+
+To run this chess engine project successfully, you will need the following installed on your system:
+
+JDK (Java Development Kit) - Ensure that you have a JDK installed on your system. Compiler should suggest you to the direct download link.
+
+Python and Pygame - Make sure Python is installed. Then, install the Pygame library by running the following command in your terminal or command prompt: *pip install pygame*
+
 ## How to play?
 
 - Select whether you want to play against the computer, another player locally, or watch the engine play against itself by setting the appropriate flags in lines 52 and 53 of ChessMain.py.
