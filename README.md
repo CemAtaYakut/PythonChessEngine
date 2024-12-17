@@ -10,7 +10,7 @@ While many of the comments in the code are written in Turkish, the core structur
 
 ## Inspirations & Credits
 
-Here is Eddie Sharick's channel: https://www.youtube.com/watch?v=U4ogK0MIzqk
+Here is Eddie Sharick's channel: https://www.youtube.com/@eddiesharick6649
 His detailed explanations and practical approach helped me understand and implement key chess engine concepts.  Huge thanks to Eddie for this massive upload to the internet.
 
 Here is Sebastian Lague's video: https://www.youtube.com/watch?v=U4ogK0MIzqk
