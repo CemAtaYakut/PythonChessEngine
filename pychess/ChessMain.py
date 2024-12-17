@@ -138,9 +138,9 @@ def main():
         if game_state.checkmate:
             game_over = True
             if game_state.white_to_move:
-                drawEndGameText(screen, "Şah Mat! Siyah kazandı.")
+                drawEndGameText(screen, "Chechmate! The Turk has beaten you.")
             else:
-                drawEndGameText(screen, "Şah Mat! Beyaz kazandı.")
+                drawEndGameText(screen, "Checkmate You have beaten The Turk.")
 
         elif game_state.stalemate:
             game_over = True
