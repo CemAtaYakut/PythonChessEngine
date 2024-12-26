@@ -9,7 +9,7 @@ If you are interested to learn more about The Mechanical Turk, just click the na
 
 While many of the comments in the code are written in Turkish, the core structure is heavily influenced by Eddie Sharick's project as I followed his video series extensively. It’s a blend of learning, practice, and passion for coding.
 
-After testing the engine in our tournament, I think its ELO is between 800 and 1200. It's not a highly advanced chess engine, but it's open to development. It was a really fun experience.
+**Edit:** After testing the engine in our tournament, I think its ELO is between 800 and 1200. It's not a highly advanced chess engine, but it's open to development. It was a really fun experience.
 
 ## Setup Instructions
 
